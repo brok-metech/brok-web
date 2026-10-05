@@ -1,2 +1,2 @@
-// Généré par deploy/publish-pages.sh
-window.BROK_API_BASE = 'https://homeland-cage-extends-updating.trycloudflare.com'
+// Généré par deploy/demo-up.sh
+window.BROK_API_BASE = 'https://controlling-theory-blessed-neural.trycloudflare.com'
